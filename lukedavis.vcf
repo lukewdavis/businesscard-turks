@@ -1,0 +1,28 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Davis;Luke;;;
+FN:Luke Davis
+ORG:Harrisonburg Turks Baseball
+ADR;TYPE=WORK:Veterans Memorial Park
+James Madison University
+Baseball Complex
+395 South High Street
+Harrisonburg, Va. 22801
+TITLE:Gate/Admissions
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:(540)290-2929
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:hbturksbaseball@gmail.com
+URL;TYPE=Digital Business Card:
+URL:https://www.harrisonburgturks.com
+URL;TYPE=Website:https://www.harrisonburgturks.com
+URL;TYPE=Location:Veterans Memorial Park James Madison University Baseball Complex 395 South High Street Harrisonburg, Va. 22801
+URL;TYPE=Facebook:https://facebook.com/HarrisonburgTurks
+URL;TYPE=Twitter:https://twitter.com/HbgTurksVBL
+URL;TYPE=Instagram:https://instagram.com/hburgturks
+URL;TYPE=TikTok:https://tiktok.com/hburgturks
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100655027
+END:VCARD
